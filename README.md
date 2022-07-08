@@ -16,12 +16,6 @@ As a user you will also be able to view your profile that displays your username
   - [Questions](#questions)
   
 
-## Installation
-Video link  : ***insert here***
-
-![Screenshot](insert here)
-
-
 ## Usage
 Welcome to PlantHub! Your number one tool to help keep your plants alive and thriving. 
 We're dedicated to providing you the best platform to track your plants needs.
